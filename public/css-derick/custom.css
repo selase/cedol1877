@@ -1,0 +1,103 @@
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Gidole", -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+html,
+body {
+  font-family: FinancierDisplayWeb, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: MetricWeb, serif;
+}
+
+p {
+  font-size: 0.75em;
+}
+
+.title,
+.subtitle,
+body {
+  font-family: "Gidole", -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.section {
+  /*padding: 1rem 1.5rem;
+    border-bottom: 2px solid #f1f1f1; */
+  padding: 1rem 1.5rem;
+}
+
+.headline {
+  font-size: 13px;
+  line-height: 16px;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.widget-header {
+  font-size: 16px;
+  padding: 20px 0;
+  text-align: center;
+  border-top: 1px solid;
+}
+
+.post-tabs {
+  padding-top: 10px;
+  font-family: "Gidole";
+  font-size: 0.8em;
+  border-top: 1px dotted #d4d4d4;
+}
+
+.fcheader {
+  font-family: FinancierDisplayWeb,serif;
+  font-size: 1.5em;
+  line-height: 1em;
+  padding-bottom: 10px;
+}
+
+.navbar-item {
+  font-size: 0.8em;
+}
+
+.has-text-aqua {
+  color: #00ffff;
+}
+
+.has-background-aliceblue {
+  background-color: #f0f8ff;
+}
+
+.has-background-antiquewhite {
+  background-color: #faebd7;
+}
+
+.has-border-bottom {
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.has-left-border {
+  border-left: 1px dotted #dcdcdc;
+}
+
+.is-paddingless-side {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.red-dot {
+  height: 7px;
+  width: 7px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+}
+
